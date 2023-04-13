@@ -34,3 +34,24 @@
   
    ** Assignment(week2)
 -----------------------------------------------------
+**Week 3**
+1. Assigment (week2)
+  
+2. Neural Network
+
+   2-1. Perceptron
+  
+   2-2. Assignment(week3)
+  
+   2-3. Text Classification Using NN
+-----------------------------------------------------
+**Week 4**
+1. Assigment (week3)
+  
+2. RNN
+
+   2-1. CharRNN
+  
+   2-2. Assignment(week4)
+  
+   2-3. Sentiment Analysis
