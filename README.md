@@ -7,7 +7,7 @@
 
 
 **Week 1**  
-
+|                                 |                                 |
 |---------------------------------|---------------------------------|        
 | 1. Tensor Manipulation (PyTorch)| 1-1. Vector, Matrix and Tensor  |
 |                                 | 1-2. Tensor Operation           |
@@ -17,16 +17,18 @@
 |                                 | ** Assignment(week1)            |
 
 ---------------------------------------------------------------------
-**Week 2**
-1. Assigment (week1)
-  
-2. Word Embedding
 
-   2-1. Sparse vs Dense
+**Week 2**
+|                             |                                 |
+|-----------------------------|---------------------------------|        
+| 1. Assigment (week1)        |                                 |
+|                             | 1-2. Tensor Operation           |
+|                             | 1-3. Tensor Manipulation        | 
+| 2. Word Embedding           | 2-1. Sparse vs Dense            |
+|                             | 2-2. Word2Vec                   |
+|                             | ** Assignment(week2)            |
   
-   2-2. Word2Vec
-  
-   ** Assignment(week2)
+   
 -----------------------------------------------------
 **Week 3**
 1. Assigment (week2)
