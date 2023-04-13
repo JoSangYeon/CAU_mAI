@@ -23,4 +23,14 @@
   
    ** Assignment(week1)
 -----------------------------------------------------
+**Week 2**
+1. Assigment (week1)
   
+2. Word Embedding
+
+   2-1. Sparse vs Dense
+  
+   2-2. Word2Vec
+  
+   ** Assignment(week2)
+-----------------------------------------------------
