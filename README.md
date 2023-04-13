@@ -6,7 +6,7 @@
 
 
 -----------------------------------------------------
-**Week 1
+**Week 1**
 1. Tensor Manipulation (PyTorch)
 
     1-1. Vector, Matrix and Tensor
@@ -21,6 +21,6 @@
   
    2-2. Subword Tokenizer
   
-   * Assignment(week1)
+   ** Assignment(week1)
 -----------------------------------------------------
   
