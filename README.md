@@ -55,3 +55,17 @@
    2-2. Assignment(week4)
   
    2-3. Sentiment Analysis
+-----------------------------------------------------
+**Week 5**
+1. Assigment (week4)
+  
+2. Attention
+
+   2-1. vanilla seq2seq
+  
+   2-2. seq2seq with attention
+-----------------------------------------------------
+**Week 6**
+1. Transformer
+  
+2. PLM
