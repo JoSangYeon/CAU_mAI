@@ -6,14 +6,14 @@
 
 
 ---------------------------------------------------------------------
-| **Week 1**                                                        |
+| **Week 1**                      |                                 |
 |-------------------------------------------------------------------|
 | 1. Tensor Manipulation (PyTorch)| 1-1. Vector, Matrix and Tensor  |
-|               .                  | 1-2. Tensor Operation           |
-|               .                  | 1-3. Tensor Manipulation        | 
+|                                 | 1-2. Tensor Operation           |
+|                                 | 1-3. Tensor Manipulation        | 
 | 2. Text Preprocessing           | 2-1. Tokenization               |
-|               .                  | 2-2. Subword Tokenizer          |
-|               .                  | ** Assignment(week1)            |
+|                                 | 2-2. Subword Tokenizer          |
+|                                 | ** Assignment(week1)            |
 ---------------------------------------------------------------------
 **Week 2**
 1. Assigment (week1)
