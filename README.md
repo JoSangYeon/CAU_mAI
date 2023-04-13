@@ -7,7 +7,7 @@
 
 
 **Week 1**  
-|                                 |                                 |
+
 |---------------------------------|---------------------------------|        
 | 1. Tensor Manipulation (PyTorch)| 1-1. Vector, Matrix and Tensor  |
 |                                 | 1-2. Tensor Operation           |
