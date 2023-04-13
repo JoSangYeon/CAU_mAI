@@ -14,6 +14,7 @@
 | 2. Text Preprocessing           | 2-1. Tokenization               |
 |                                 | 2-2. Subword Tokenizer          |
 |                                 | ** Assignment(week1)            |
+
 ---------------------------------------------------------------------
 **Week 2**
 1. Assigment (week1)
