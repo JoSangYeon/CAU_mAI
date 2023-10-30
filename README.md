@@ -1,7 +1,7 @@
 # CAU_mAI
 + 군AI교육지원사업 : 자연어처리
 + [Reference](https://github.com/Jungmin-YUN-0/CAU_mAI_revision)
-
++ 수정
 ## **Week 1**  
 |                                 |                                 |
 |---------------------------------|---------------------------------|        
